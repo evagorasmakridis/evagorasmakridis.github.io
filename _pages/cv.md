@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Decision Analysis and Data Science, Stockholm University, (recently admitted), 2020-2022
+* M.Sc. in Autonomous Systems, KTH Royal Institute of Technology, (2nd year), 2019-2020
+* M.Sc. in Autonomous Systems, Aalto University, (1st year), 2018-2019
+* B.Sc. in Electrical Engineering, Cyprus University of Technology, 2013-2017
 
 Work experience
 ======
@@ -46,12 +47,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
