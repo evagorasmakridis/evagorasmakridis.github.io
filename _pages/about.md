@@ -10,13 +10,17 @@ redirect_from:
 
 I am currently a second year Master of Science (M.Sc.) degree student in Autonomous Systems at KTH Royal Institute of Technology holding a scholarship with EIT Digital. I received my Bachelor of Science (B.Sc.) degree in Electrical Engineering from the Department of Electrical Engineering, Computer Engineering and Informatics at Cyprus University of Technology in June 2017. In parallel with my studies, I was working as internship student in the industry at Cyprus. After my B.Sc. graduation I worked as a Research Assistant at Aalto University, Finland and at the University of Lincoln, United Kingdom through the Erasmus+ placement. Currently I am pursuing my M.Sc. thesis on "Reinforcement Learning for Radio Resource Management" at Ericsson AB. 
 
-Site-wide configuration
+Latest news
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a project or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- May 2020 ~ Admitted for M.Sc. degree in Decision Analysis and Data Science at Stockholm University.
+- March 2020 ~ Accepted conference paper ('Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization') at the International conference on Wireless Communications and Mobile Computing (IWCMC).
+- January 2020 ~ Accepted journal paper ('Robust Dynamic CPU Resource Provisioning in Virtualized Servers') in the IEEE Transactions on Services Computing (ToSC).
+- January 2020 ~ Started M.Sc. thesis at Ericsson AB in ('Reinforcement Learning for Radio Resource Management').
+- September 2019 ~ Started the second year of the M.Sc. degree in Autonomous Systems at KTH Royal Institute of Technology.
+- July 2019 ~ Participated at the EIT Digital Summer School for ('Data Driven Manufacturing with Industry 4.0').
+- September 2018 ~ Started the first year of the M.Sc. degree in Autonomous Systems at Aalto University.
+- April 2018 ~ Admitted for M.Sc. degree in Autonomous Systems with EIT Digital.
+- June 2017 ~ Accepted conference paper ('Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correctropy Criterion Kalman Filters') at the IEEE International Conference on Emerging Technologies And Factory Automation (ETFA).
 
 Contact
 ------
