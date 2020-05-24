@@ -18,24 +18,33 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan’20 – onwards: Master Thesis R&D, Ericsson AB.
+  * Reinforcement Learning for Radio Resource Management.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep’18 – Jun’19: Research Assistant, Aalto University.
+  * Navigation and control of a quadrotor UAV via UWB wireless communications.
+
+* Feb’18 – Jul’18: Full Stack Software Engineer, TRG Research & Development.
+  * Software development for intelligence and telecommunication applications.
+
+* Sep’17 – Jan’18: Research Assistant, University of Lincoln.
+  * Robust CPU resource provisioning in virtualized servers, Control of 3D crane system.
+
+* Jun’17 – Jul’17: Research Trainee, Aalto University.
+  * Dynamic CPU resource provisioning in virtualized servers.
+
+* Jun’16 – Aug’16: Student Internship, SignalGeneriX Ltd.
+  * Design and development of a wireless power transfer receiver for wearables.
+
+* Jul’15 – Aug’15: Student Internship, Cyprus Ministry of Transport, Comm. and Works.
+  * Telecommunication and networking systems installation.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
++ Programming Languages: Python, C, C++, Matlab/Simulink, Unix shell.
++ Systems & Tools: Linux, ROS, Simulink, Git, Xen Hypervisor.
++ Productivity: TEX, LATEX, VIM, yEd.
++ Languages: Greek - Native speaker, English - Fluent (read, spoken, written).
 
 Publications
 ======
@@ -49,6 +58,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Activities and services
 ======
-* Currently signed in to 43 different slack teams
++ IEEE 16th IWCMC 2020, Limassol, Cyprus, Referee service.
++ EIT Digital Sumemr School 2019, Bologna, Italy, Data-driven manufacturing for Industry 4.0.
++ FLL, First Lego League 2017, Cyprus, Robotics practice table volunteer referee.
++ Sergeant, National Guard of Cyprus, 2011-2013, 2 years military service.
