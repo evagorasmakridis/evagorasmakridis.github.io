@@ -52,11 +52,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
++ Chatbot using deep neural networks.
++ Balancing a two-wheeled minseg robot using optimal control techniques. 
++ Music genre classification using neural networks and princ. component analysis.
++ Control of a small-scale 3D crane system using PID controllers.
   
 Activities and services
 ======
