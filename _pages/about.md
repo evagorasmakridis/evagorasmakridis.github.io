@@ -21,7 +21,7 @@ Latest news
 - September 2018 ~ Started the first year of the M.Sc. degree in Autonomous Systems at Aalto University.
 - April 2018 ~ Admitted for M.Sc. degree in Autonomous Systems with EIT Digital.
 - June 2017 ~ Accepted conference paper 'Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correctropy Criterion Kalman Filters' at the IEEE International Conference on Emerging Technologies And Factory Automation (ETFA).
-- June 2017 ~ Graduated from Cyprus University of Technology holding a B.Sc. in Electrican Engineering.
+- June 2017 ~ Graduated from Cyprus University of Technology holding a B.Sc. in Electrical Engineering.
 
 Contact
 ------
