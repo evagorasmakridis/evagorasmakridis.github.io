@@ -40,7 +40,7 @@ Work experience
   * Telecommunication and networking systems installation.
   
 Skills
-======
+------
 + Programming Languages: Python, C, C++, Matlab/Simulink, Unix shell.
 + Systems & Tools: Linux, ROS, Simulink, Git, Xen Hypervisor.
 + Productivity: TEX, LATEX, VIM, yEd.
@@ -48,18 +48,19 @@ Skills
 
 Publications
 ------
+
 Journal papers
 ------
-* [J1] [Robust Dynamic CPU Resource Provisioning in Virtualized Servers](https://ieeexplore.ieee.org/abstract/document/8960454).
+- [J1] [Robust Dynamic CPU Resource Provisioning in Virtualized Servers](https://ieeexplore.ieee.org/abstract/document/8960454).
 Evagoras Makridis, Kyriakos Deliparaschos, Evangelia Kalyvianaki, Argyrios Zolotas, Themistoklis Charalambous.
 IEEE Transactions on Services Computing, 2020.
 
 Conference proceedings
 ------
-* [C2] [Towards Robust Onboard Control of Quadrotor via Ultra-Wideband-based Localization](https://www.researchgate.net/profile/Evagoras_Makridis/publication/341044037_Towards_Robust_Onboard_Control_for_Quadrotors_via_Ultra-Wideband-based_Localization/links/5eaab56192851cb26766e74a/Towards-Robust-Onboard-Control-for-Quadrotors-via-Ultra-Wideband-based-Localization.pdf).
+- [C2] [Towards Robust Onboard Control of Quadrotor via Ultra-Wideband-based Localization](https://www.researchgate.net/profile/Evagoras_Makridis/publication/341044037_Towards_Robust_Onboard_Control_for_Quadrotors_via_Ultra-Wideband-based_Localization/links/5eaab56192851cb26766e74a/Towards-Robust-Onboard-Control-for-Quadrotors-via-Ultra-Wideband-based-Localization.pdf).
 Evagoras Makridis, Themistoklis Charalambous.
 International Conference on Wireless Communications and Mobile Computing (IWCMC), 2020.
-* [C1] [Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman Filters](https://ieeexplore.ieee.org/abstract/document/8247677).
+- [C1] [Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman Filters](https://ieeexplore.ieee.org/abstract/document/8247677).
 Evagoras Makridis, Kyriakos Deliparaschos, Evangelia Kalyvianaki, Themistoklis Charalambous.
 IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), 2017.
   
