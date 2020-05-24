@@ -71,6 +71,6 @@ Projects
 Activities and services
 ------
 + IEEE 16th IWCMC 2020, Limassol, Cyprus, Referee service.
-+ EIT Digital Sumemr School 2019, Bologna, Italy, Data-driven manufacturing for Industry 4.0.
++ EIT Digital Summer School 2019, Bologna, Italy, Data-driven manufacturing for Industry 4.0.
 + FLL, First Lego League 2017, Cyprus, Robotics practice table volunteer referee.
 + Sergeant, National Guard of Cyprus, 2011-2013, 2 years military service.
